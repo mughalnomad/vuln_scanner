@@ -11,4 +11,4 @@ A Python tool to find security flaws in websites. Checks for XSS, SQLi, open por
 1. Install dependencies:  
    `pip install -r requirements.txt`  
 2. Run:  
-   `python advanced_scanner.py`
+   `python scanner.py`
